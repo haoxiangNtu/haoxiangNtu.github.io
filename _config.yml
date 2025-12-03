@@ -22,7 +22,7 @@ repository               : "haoxiangNtu/haoxiangNtu.github.io" # 替换为你的
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "haoxiang.png" # 若有个人头像，放入 /images/ 目录后替换文件名（无则保留默认）
+  avatar           : "/images/haoxiang.png" # 若有个人头像，放入 /images/ 目录后替换文件名（无则保留默认）
   name             : "Haoxiang Li"
   pronouns         : # 可选：如 "he/him"
   bio              : "PhD Candidate in 3D Material Design & Physics-based Simulation at Nanyang Technological University (NTU), Singapore. Research interests include gradient-based nonlinear optimization, multi-material distribution design, physics-informed neural networks (PINNs), and GPU-accelerated simulation."
