@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Haoxiang Li | Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Haoxiang Li"
-description              : &description "Academic portfolio of Haoxiang Li – PhD Candidate in 3D Material Design & Physics-based Simulation, focusing on Nonlinear Optimization, Multi-Material Distribution, and AI-Driven Simulation"
+description              : &description "Personal site of Haoxiang Li – Ph.D. in Computer Graphics (NTU Singapore). GPU-accelerated physics-based simulation, differentiable simulation and nonlinear optimization for robot learning, world-model data generation and multi-material 3D printing design."
 url                      : https://haoxiangNtu.github.io # 替换为你的 GitHub Pages 链接（如：https://haoxiangli.github.io）
 baseurl                  : "" # 无需修改（仓库名为 [用户名].github.io 时）
 repository               : "haoxiangNtu/haoxiangNtu.github.io" # 替换为你的仓库地址（如：haoxiangli/haoxiangli.github.io）
@@ -25,16 +25,16 @@ author:
   avatar           : "images/haoxiang.png" # 若有个人头像，放入 /images/ 目录后替换文件名（无则保留默认）
   name             : "Haoxiang Li"
   pronouns         : # 可选：如 "he/him"
-  bio              : "PhD Candidate in 3D Material Design & Physics-based Simulation at Nanyang Technological University (NTU), Singapore. Research interests include gradient-based nonlinear optimization, multi-material distribution design, physics-informed neural networks (PINNs), and GPU-accelerated simulation."
-  location         : "Singapore"
-  employer         : "Nanyang Technological University (NTU)"
+  bio              : "Simulation Team Lead at a robotics startup in Shenzhen. Ph.D. in Computer Graphics, Nanyang Technological University (NTU), Singapore. I build GPU-accelerated rigid–soft coupled simulation engines, generate large-scale robot interaction data for world-model training, and work on nonlinear optimization for multi-material 3D printing design."
+  location         : "Shenzhen, China"
+  employer         : "机科未来 (RoboScience), Shenzhen"
   uri              : # 可选：个人官网链接（无则留空）
   email            : "Haoxiang002@e.ntu.edu.sg"
 
   # Academic websites
   academia         : # 可选：Academia.edu 链接（无则留空）
   arxiv            : # 可选：arXiv 个人主页链接（无则留空）
-  googlescholar    : "https://scholar.google.com/citations?user=[YOUR_GOOGLE_SCHOLAR_ID]" # 替换为你的 Google Scholar 链接（从 Scholar 主页复制）
+  googlescholar    : # 替换为你的 Google Scholar 链接（从 Scholar 主页复制）
   inspire-hep      : # 可选：Inspire-HEP 链接（无则留空）
   impactstory      : # 可选：ImpactStory 链接（无则留空）
   orcid            : # 可选：ORCID 链接（如 https://orcid.org/0000-0002-XXX-XXXX，无则留空）
@@ -62,7 +62,7 @@ author:
   keybase          : # 可选：Keybase 用户名（无则留空）
   instagram        : # 可选：Instagram 用户名（无则留空）
   lastfm           : # 可选：Last.fm 用户名（无则留空）
-  linkedin         : "[YOUR_LINKEDIN_USERNAME]" # 替换为你的 LinkedIn 用户名（如 haoxiang-li-xxx）
+  linkedin         : "haoxiang-li-411850214" # 替换为你的 LinkedIn 用户名（如 haoxiang-li-xxx）
   mastodon         : # 可选：Mastodon 链接（无则留空）
   medium           : # 可选：Medium 用户名（无则留空）
   pinterest        : # 可选：Pinterest 用户名（无则留空）
