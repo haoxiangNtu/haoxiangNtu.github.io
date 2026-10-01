@@ -27,7 +27,7 @@ author:
   pronouns         : # 可选：如 "he/him"
   bio              : "Simulation Team Lead at a robotics startup in Shenzhen. Ph.D. in Computer Graphics, Nanyang Technological University (NTU), Singapore. I build GPU-accelerated rigid–soft coupled simulation engines, generate large-scale robot interaction data for world-model training, and work on nonlinear optimization for multi-material 3D printing design."
   location         : "Shenzhen, China"
-  employer         : "机科未来 (RoboScience), Shenzhen"
+  employer         : "RoboScience, Shenzhen"
   uri              : # 可选：个人官网链接（无则留空）
   email            : "Haoxiang002@e.ntu.edu.sg"
 

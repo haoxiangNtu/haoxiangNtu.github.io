@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* **Sep 2025 – present: Simulation Team Lead**, 机科未来 (RoboScience), Shenzhen, China
+* **Sep 2025 – present: Simulation Team Lead**, RoboScience, Shenzhen, China
   * Lead a seven-person team building the core rigid-body, deformable-body and cloth simulation engine and its integration with Isaac Lab.
   * Designed a fully GPU-based rigid–soft coupled simulation architecture, implemented the engine's USD parsing layer and migrated the simulation pipeline to the USD framework.
   * Generated high-quality synthetic data for complex rigid–soft coupled scenes (parcel grasping, hanging garments) and validated advanced grasping algorithms on elasto-plastic objects.
